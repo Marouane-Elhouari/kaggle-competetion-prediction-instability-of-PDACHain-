@@ -1,0 +1,15 @@
+{
+  "id": "marouaneelhouari/thermonet-v2-run",
+  "title": "ThermoNet V2 Run",
+  "code_file": "train_thermonet.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "dataset_sources": [
+    "vslaykovsky/thermonet-features"
+  ],
+  "competition_sources": [
+    "novozymes-enzyme-stability-prediction"
+  ]
+}

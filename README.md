@@ -24,9 +24,3 @@ Models are evaluated using the **Spearman Correlation Coefficient** between the 
   * Ensemble Models: XGBoost, LightGBM (trained on aggregated sequence and physical features).
   * Deep Learning: PyTorch (3D CNN architectures like ThermoNet to process 3D spatial voxel grids).
 * **Environment:** Kaggle Notebooks / Local Jupyter / VS Code.
-
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone <your-repo-link>
-   cd <your-repo-name>

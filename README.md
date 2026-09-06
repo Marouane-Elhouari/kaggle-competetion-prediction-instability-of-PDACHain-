@@ -21,6 +21,7 @@ Models are evaluated using the **Spearman Correlation Coefficient** between the 
 * **Language:** Python
 * **Data Processing:** Pandas, NumPy, Biopython, HTMD (for PDB parsing and Voxel generation).
 * **Machine Learning:** 
-  * Ensemble Models: XGBoost, LightGBM (trained on aggregated sequence and physical features).
+
   * Deep Learning: PyTorch (3D CNN architectures like ThermoNet to process 3D spatial voxel grids).
 * **Environment:** Kaggle Notebooks / Local Jupyter / VS Code.
+
